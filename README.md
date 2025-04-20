@@ -8,7 +8,7 @@ Interested in Data
 
 * 🌍  I'm based out of India
 * ✉️  You can contact me at 22f1001762@ds.study.iitm.ac.in
-* 🧠  I'm learning Learning the Web & React with it
+* 🧠  I'm learning how to play with data and to extract great insights out of it
 
 ### Skills
 
