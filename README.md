@@ -7,7 +7,7 @@ Tech enthusiast
 Interested in Data
 
 * 🌍  I'm based out of India
-* ✉️  You can contact me at [22f1001762@student.onlinedegree.iitm.ac.in](mailto:22f1001762@student.onlinedegree.iitm.ac.in)
+* ✉️  You can contact me at 22f1001762@ds.study.iitm.ac.in
 * 🧠  I'm learning Learning the Web & React with it
 
 ### Skills
